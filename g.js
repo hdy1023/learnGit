@@ -25,3 +25,5 @@ error: could not detach HEAD
 rebase总结：
 相比merge，分支树不会出现分叉，会一直保持一条直线，但是再处理冲突上不便利。
 */
+
+/* 远端rebase试验：进行了一次提交 */
