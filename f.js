@@ -1,0 +1,1 @@
+console.log('这是user2创建的f文件')
