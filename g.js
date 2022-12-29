@@ -20,3 +20,8 @@ error: could not detach HEAD
 解决办法：使用git add 文件名 对新建文件进行追踪，再进行git stash 操作即可。如：git add club.vue 再git stash
 3.merge 手动处理冲突
 */
+
+/* 
+rebase总结：
+相比merge，分支树不会出现分叉，会一直保持一条直线，但是再处理冲突上不便利。
+*/
